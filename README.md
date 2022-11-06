@@ -48,6 +48,8 @@
 </p> 
 
 
+## 🏆 GitHub Trophies:
+<p align="center"> <a href="https://github.com/shohidul-jaman-anik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohidul-jaman-anik&row=1&column=6&theme=onedark" alt="shohidul-jaman-anik" /></a> </p>
 
 
 
