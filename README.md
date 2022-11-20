@@ -1,6 +1,5 @@
 ![MasterHead](https://i.ibb.co/QXWLb1P/Anik1.png)
-<h1 align="center">Hi 👋, I'm Shohidul Jaman Anik</h1>
-<h3 align="center">Software Development Is My Passion. I Love To Learn New Skills To Become Myself A Pro Developer</h3>
+<p align="center">I am an innovative, creative thinker who is adept at coming up with real solutions that work for clients. With experience in a wide variety of software, system architectures and programming languages, I am always current with the latest developments in the software development world. I pride myself on optimizing function and providing solutions that are intuitive user-friendly, adaptable and effective.</p>
 
 
 <div align="center">
