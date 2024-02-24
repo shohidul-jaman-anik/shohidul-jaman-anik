@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/Y7wjX1X/mdAnik.png)
+![MasterHead](https://i.ibb.co/0qnzCWz/Md-Anik.png)
 <p align="center">I am an innovative, creative thinker who is adept at coming up with real solutions that work for clients. With experience in a wide variety of software, system architectures and programming languages, I am always current with the latest developments in the software development world. I pride myself on optimizing function and providing solutions that are intuitive user-friendly, adaptable and effective.</p>
 
 
