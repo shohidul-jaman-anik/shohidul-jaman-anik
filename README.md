@@ -1,5 +1,5 @@
-![MasterHead](https://i.ibb.co/6Ymt3Vt/Md-Anik-2.png)
-<p align="center">I am an innovative, creative thinker who is adept at coming up with real solutions that work for clients. With experience in a wide variety of software, system architectures, and programming languages, I am always current with the latest developments in the software development world. I pride myself on optimizing function and providing solutions that are intuitive user-friendly, adaptable, and effective.</p>
+![MasterHead](https://i.ibb.co/RT0kzSF/Md-Anik.png)
+<p align="center" style="text-align: justify;">I am an innovative, creative thinker who is adept at coming up with real solutions that work for clients. With experience in various software, system architectures, and programming languages, I always stay up-to-date with the latest advancements in software engineering. I pride myself on optimizing function and providing intuitive, user-friendly, adaptable, and effective solutions.</p>
 
 
 <div align="center">
@@ -11,11 +11,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik2861&label=Profile%20views&color=0e75b6&style=flat" alt="anik2861" /> </p>
 
-- 🔭 I’m currently working on **Rental-home**
+- 🔭 I’m currently working on [**Rental Home**](https://www.rentalhomeusa.com/)
 
 - 🌱 I’m currently learning **Python** in deep.
 
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **anikh499@gmail.com**
 
