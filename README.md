@@ -7,7 +7,7 @@
        alt="snake" />
 </div>
 
-<img align="right" height="290px" width="260px" src="https://i.ibb.co/PwgQjwy/sideimg.gif" alt="anik2861" />
+<img align="right" height="290px" width="260px" src="https://i.ibb.co/1KHmvVc/giphy-4.webp" alt="anik2861" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik2861&label=Profile%20views&color=0e75b6&style=flat" alt="anik2861" /> </p>
 
@@ -18,6 +18,8 @@
 - 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **anikh499@gmail.com**
+  
+- 💡 I’m passionate about AI/ML, Full-Stack Development, and Cloud Computing.
 
 
 <h2>Connect With Me <img width="42" src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" ></h2>
