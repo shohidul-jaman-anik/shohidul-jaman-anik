@@ -4,11 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/shohidul-jaman-anik" target="_blank">
-    <img src="https://raw.githubusercontent.com/shohidul-jaman-anik/shohidul-jaman-anik/output/github-contribution-grid-snake-dark.svg" 
+    <img src="https://raw.githubusercontent.com/shohidul-jaman-anik/shohidul-jaman-anik/output/github-contribution-grid-snake.svg" 
          alt="Anik Snake Animation"
          width="800"/>
   </a>
 </p>
+
 
 
 
