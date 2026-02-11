@@ -5,17 +5,15 @@
 <p align="center">
   <a href="https://github.com/shohidul-jaman-anik" target="_blank">
     <img src="https://raw.githubusercontent.com/shohidul-jaman-anik/shohidul-jaman-anik/output/github-contribution-grid-snake.svg" 
-         alt="Anik Snake Animation"
+         alt="Anik Snake Animation."
          width="800"/>
   </a>
 </p>
 
 
+<img align="right" height="290px" width="260px" src="https://i.ibb.co/1KHmvVc/giphy-4.webp" alt="shohidul-jaman-anik" />
 
-
-<img align="right" height="290px" width="260px" src="https://i.ibb.co/1KHmvVc/giphy-4.webp" alt="anik2861" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik2861&label=Profile%20views&color=0e75b6&style=flat" alt="anik2861" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik2861&label=Profile%20views&color=0e75b6&style=flat" alt="shohidul-jaman-anik" /> </p>
 
 - 🔭 I’m currently working on [**Rental Home**](https://www.rentalhomeusa.com/)
 
