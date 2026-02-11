@@ -1,31 +1,22 @@
 name: Generate Snake
 
-# Trigger manually
 on:
   workflow_dispatch:
 
-# Permissions for workflow
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Generate the snake animation
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: shohidul-jaman-anik
-          # Generate normal + dark version
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 2: Publish to output branch
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
